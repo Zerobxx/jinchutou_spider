@@ -1,3 +1,9 @@
+简单文库爬虫测试
+
+python 3.5+
+
+pip install -r requirements.txt
+
 pip install selenium
 
 apt install firefox

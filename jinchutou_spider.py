@@ -42,9 +42,7 @@ driver.find_element_by_id("Content_autologin").click()
 driver.find_element_by_id("Content_btnLogin").click()
 # driver.find_element_by_xpath(u"(.//*[normalize-space(text()) and normalize-space(.)='上传文档赚钱'])[1]/following::div[4]").click()
 # driver.find_element_by_xpath(u"(.//*[normalize-space(text()) and normalize-space(.)='文学/艺术/历史'])[2]/following::nobr[1]").click()
-# //location = '//div[@class="view"]//li[@class="post masonry-brick"]/p/a/@href'
 # driver.find_element_by_link_text(u"长相思第一部...").click()
-# ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_1 | ]]
 # time.sleep(3)
 # handles = driver.window_handles
 # driver.switch_to.window(handles[-1])
